@@ -60,3 +60,18 @@ Outline Key Objectives: After communicating with our customer, we must must clea
 Use Clear and Concise Language: In order to communicate effetively we need to utilize language that would be understood by all in the products creation. This might be difficult as an engineer but is important while taking into account team effort and customer collaboration.
 
 Test and Refine: Once our product is complete we must test the customers initial concerns and if our product could be used or enhanced in order to do it's job as intended. 
+---
+Team Member Communication Modes:
+---
+
+|  Ethan Peterson: I = Text  II = Email III = Discord    |   
+|  2               I = ?     II = ?     III = ?          |
+|  3               I = ?     II = ?     III = ?          |
+|  4               I = ?     II = ?     III = ?          |
+  
+
+Perference : Text
+
+Meeting Schedule:
+https://docs.google.com/spreadsheets/d/1dxgQQWTqI2chtbIeKYItjgQndEoy_80x/edit?gid=1078714301#gid=1078714301
+(Click or copy the url into your browser, the url is open to the public to view.)
