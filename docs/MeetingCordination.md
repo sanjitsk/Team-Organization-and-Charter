@@ -9,12 +9,11 @@ Title: Meeting Coordination
 7. Are there any other procedures that your team feels are necessary? Describe them.
 
 Roles and Responsibilities: 
-| - - - - - - - - - - - - - - - - - - - - - - - - - - - -|                       
-|  Ethan Peterson                     Assignment Leader  |
-|  2                                                     |
-|  3                                                     |
-|  4                                                     |
-| - - - - - - - - - - - - - - - - - - - - - - - - - - - -|     
+                      
+|  Ethan Peterson        =             Assignment Leader |
+|  2                     =                      ?        |
+|  3                     =                      ?        |
+|  4                     =                      ?        |   
 
 Process by which each team member will fulfill each project role and responsibility:
 
