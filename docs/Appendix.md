@@ -12,7 +12,7 @@ Team Member Communication Modes:
 |  4               I = ?     II = ?     III = ?          |
   
 
-Perference : Text
+Preference : Text
 
 ---
 Meeting Schedule:
@@ -67,11 +67,11 @@ The team will decide who occupies what role by collectively deciding what will n
 
 - How will team members help one another meet their responsibilities?
 
-By being responsible and stepping up to the task of getting quality work forward, the team will ensure that everyone meets what the team decides as being a responsable team member. A responsible team member fulfills their role, answers communication, steps up and takes action on new work, and a responsable member puts forward a plan of action to get what the team needs to get done. All processes for the team would need to be argeed upon by the assignment leader or project manager due to their responsibility in either assignments or projects.
+By being responsible and stepping up to the task of getting quality work forward, the team will ensure that everyone meets what the team decides as being a responsible team member. A responsible team member fulfills their role, answers communication, steps up and takes action on new work, and a responsable member puts forward a plan of action to get what the team needs to get done. All processes for the team would need to be agreed upon by the assignment leader or project manager due to their responsibility in either assignments or projects.
 
 - How will you identify and respond to situations in which the team must adjust roles and responsibilities?
 
-The team identifies this matter by the consequences of the teams actions. If a situation arrises in which a role must change the team will take action quickly and decisvely. 
+The team identifies this matter by the consequences of the teams actions. If a situation arrises in which a role must change the team will take action quickly and decisively. 
 
 - How will you track the team activities and milestones?
 
