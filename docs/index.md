@@ -1,5 +1,5 @@
 ---
-Welcome to the Team\
+Welcome to the Team
 ---
 
 ## Select which part of the Team organization you wish to explore from the top left of your screen.
@@ -7,7 +7,7 @@ Welcome to the Team\
 ---
 Team Number : 308
 ---
-Preparation Date : January 26, 2025
+Preparation Date : January 16, 2025
 ---
 Semester and Year : Spring 2025
 ---
