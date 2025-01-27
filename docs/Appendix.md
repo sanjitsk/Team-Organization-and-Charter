@@ -103,7 +103,7 @@ The team will communicate and volunteer for each role based on what they believe
 
 - **Training and Resources:** Provide necessary training and resources to fill any knowledge gaps.
 
-- **Mentorship:** Pair less experienced members with mentors who can guide them through the assignment.
+- **Mentorship:** We will pair less experienced members with mentors who can guide them through the assignment.
 
 - **Feedback Distribution and Action:** Use Google Drive to collect and distribute feedback from design reviews.
 
