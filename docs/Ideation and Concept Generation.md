@@ -16,7 +16,7 @@ Project Description:
 The project requires us to design a modular system using UART communication between individually developed subsystems. Each team member will create a surface-mount PCB, and the overall system must integrate seamlessly for the Innovation Showcase. I understand the importance of individual contributions, team collaboration, and adherence to technical guidelines, such as using specified microcontrollers, designing with approved ECAD tools, and following the daisy-chain communication protocol. Our success depends on careful planning, regular testing, and meeting the documentation and integration requirements laid out in the course.
 
 ---
-Paragraph Description about Science Exhibits:
+Our Intentions with the Science Exhibits:
 ---
 
 1. The goal of your exhibit.
@@ -30,7 +30,7 @@ The weather monitoring system exhibit aims to demonstrate physical phenomena rel
 The exhibit targets K-12 students with diverse learning characteristics. This audience spans multiple age groups (approximately 6-16 years), includes varying physical sizes, encompasses different learning styles, and represents varied levels of scientific understanding. The design must accommodate these variations by creating an interactive experience that is simultaneously accessible to younger elementary students and intellectually engaging for high school learners, ensuring inclusive educational accessibility.
 
 ---
-During the session, address the following questions derived from the readings:
+Address the following questions derived from the readings on science exhibits:
 ---
 
 1. What kinds of cues will you provide to make the use of your device easier?
@@ -58,15 +58,15 @@ We are planning to have on-device instruction, provide concise, clear instructio
 
 
 ---
-Brainstorm Ideas:
+Brainstorming:
 ---
 
 Link to access our Slides: [EGR 314 Ideation](https://docs.google.com/presentation/d/1-jR1jT5JZCxH_XFAIzBFzMHgu-b0iQvdZxi1QXmcdSc/edit)
 
 1. In these slides we sorted our ideas thematically- Physics and Engineering Projects (39), Chemistry and Materials Science Projects (27), Biology and Life Projects (19), and Earth and Space Science Projects (15).
-2. The ideas are ranked High, Medium, and Low depending as explained on the next page.
-3. The new ideas after regenerating from choosing what we liked the most can be seen in figure 1.2. Remaining Brainstormed Ideas.
-4. The grouping of the best ideas for our application may be seen in 4 categories - the combination of these categories may be seen in figure Figure 1.7: Snapshot of all the 4 categories.
+2. The ideas are ranked High, Medium, and Low depending on the information provided on the next page.
+3. The new ideas after regenerating from choosing what we liked the most can be seen in Figure 1.2. Remaining Brainstormed Ideas.
+4. The grouping of the best ideas for our application may be seen in 4 categories - the combination of these categories may be seen in figure Figure 1.7: Snapshot of all 4 categories.
 
 After talking with some stakeholders, surfing the internet and reading different books, our team came up with the following 100 different ideas which satisfies the project requirements in terms of components to be used.
 
@@ -80,10 +80,10 @@ Figure 1.1: Group of all Ideas
 Figure 1.2: Remaining Brainstormed Ideas 
 
 ---
-Sorting Ideas into 4 Categories:
+Sorting our Brainstorming Ideas into 4 Categories:
 ---
 
-Our team decided to categorize all the 100 ideas into 4 categories. We thought of dividing the ideas on the basis of different fields of nature which includes Physics and Engineering, Chemistry and Material Sciences, Biology and Life Science and Earth and Space Projects.
+Our team decided to categorize all the 100 ideas into 4 categories. We thought of dividing the ideas based on different fields of nature, including Physics and Engineering, Chemistry and Material Sciences, Biology and Life Science, and Earth and Space Projects.
 
 The highly considered ideas are marked with \*\*\*
 
@@ -115,7 +115,7 @@ Snapshot of combined categorized ideas:
 Figure 1.7: Snapshot of all the 4 categories
 
 ---
-Step 5: Create Concept Sketches
+Concept Sketches
 ---
 
 Develop Visual Representations:
@@ -136,7 +136,7 @@ Figure 5.2 - Detailed Ai and Annotated representation of Weather Data Collection
 Figure 5.2 expresses in greator detial the exact components that will be utilized for this project. The teams prioty in this side of the project was to ensure that all requirements for the project where going to be fulfilled once this final illustration was going to be made.
 
 ---
-Write One-Page Description:
+Our description of the Weather Monitoring System:
 ---
 
 Describe, in one page:
@@ -150,27 +150,27 @@ Describe, in one page:
 In this passage, please also use the two readings on science exhibits to justify how your concept satisfies the following questions:
 
 1. What kinds of cues will you provide to make the use of your device easier?
-2. How do you plan on designing your "controls" (see page 4 and 6 of the pdf for "Suggested Guidelines for Designing Interactive Exhibits")
+2. How do you plan on designing your "controls" (see pages 4 and 6 of the pdf for "Suggested Guidelines for Designing Interactive Exhibits")
 3. What role will durability, safety, and comfort play in the user experience?
 4. What kind of instruction will be needed to use the device? (see page 5 of the pdf for "Suggested Guidelines for Designing Interactive Exhibits").
 
-The weather monitoring system concept sketched for the museum integrates various features to cater to the needs of its visitors. We will use the ESP32 board as the primary controller that processes data from several sensors and modules. The LCD display prominently showcases real-time weather data, including temperature, humidity, atmospheric pressure, and rainfall, making the information accessible and engaging for visitors This is meant to present immediate feedback for customers interested with weather patterns.
+The weather monitoring system concept sketched for the museum integrates various features to cater to the needs of its visitors. We will use the ESP32 board as the primary controller that processes data from several sensors and modules. The LCD display prominently showcases real-time weather data, including temperature, humidity, atmospheric pressure, and rainfall, making the information accessible and engaging for visitors This is meant to present immediate feedback for customers interested in weather patterns.
 
-Functionality is distributed among four teammates. One will focus on hardware assembly and wiring, ensuring the secure connection of sensors and components to the ESP32 board and organizing the wiring efficiently. The second teammate will handle software development, writing the code necessary to read data from the sensors and display it on the LCD. This involves interfacing the ESP32 with the sensors and ensuring real-time data updates. The third teammate will design the user interface, selecting fonts, colors, and layouts to make the LCD display intuitive and easy to read. The fourth teammate will test and calibrate the system, running it under various conditions to ensure accuracy and reliability. All teammates will also have to follow the instructions following the individual subsystems, this is so that the requirements for individual pcbs are ensured.
+Functionality is distributed among four teammates. One will focus on hardware assembly and wiring, ensuring the secure connection of sensors and components to the ESP32 board and organizing the wiring efficiently. The second teammate will handle software development, writing the code necessary to read data from the sensors and display it on the LCD. This involves interfacing the ESP32 with the sensors and ensuring real-time data updates. The third teammate will design the user interface, selecting fonts, colors, and layouts to make the LCD display intuitive and easy to read. The fourth teammate will test and calibrate the system, running it under various conditions to ensure accuracy and reliability. All teammates will also have to follow the instructions following the individual subsystems, this is so that the requirements for individual PCBs are ensured.
 
-Internet-based two-way communication is integrated into the system, allowing it to receive updates and send data to remote servers for further analysis or display on a web interface. This feature enables continuous monitoring and provides customers with up-to-date information. This should be done with the capabilities embedded in the esp32 with bluetooth feedback and wi-fi.
+Internet-based two-way communication is integrated into the system, allowing it to receive updates and send data to remote servers for further analysis or display on a web interface. This feature enables continuous monitoring and provides customers with up-to-date information. This should be done with the capabilities embedded in the esp32, such as Bluetooth feedback and Wi-Fi.
 
-The human-machine interface is achieved through a combination of the LCD screen and user-friendly buttons. The interface is designed with cues such as clear labels and color-coded buttons to guide visitors. For instance, buttons are used to switch between different data displays or reset the sensors. According to the "Suggested Guidelines for Designing Interactive Exhibits," controls are designed to be straightforward, with minimal steps required for interaction. The connections between the systems should be straightforward and the LCD screen should not use any engineering lingo but easy to understand text about real time data.
+The human-machine interface is achieved through a combination of the LCD screen and user-friendly buttons. The interface is designed with cues such as clear labels and color-coded buttons to guide visitors. For instance, buttons are used to switch between different data displays or reset the sensors. According to the "Suggested Guidelines for Designing Interactive Exhibits," controls are designed to be straightforward, with minimal steps required for interaction. The connections between the systems should be straightforward and the LCD screen should not use any engineering lingo but easy-to-understand text about real-time data.
 
 Durability is a key consideration in the design, as the system must withstand frequent use and potential environmental factors. High-quality components and robust construction ensure longevity, and the system is enclosed in a sturdy case to protect it from physical damage. Safety is prioritized by properly insulating electrical components and securely mounting sensors to prevent any accidents. As this equipment is meant to be used outside and sometimes to measure rainfall, this device needs to withstand the elements in harsh scenarios. Comfort is addressed through the ergonomic design of controls and the portable structure of the system, making it easy for visitors to handle and interact with.
 
-Instructions for using the device are simple and clear, as recommended on page 5 of the "Suggested Guidelines for Designing Interactive Exhibits." Customers are guided through simple steps for powering on the system, reading data on the LCD display, and interpreting weather information. As we are the ones who have designed the system, we should also be the ones to understand its troubleshooting.
+Instructions for using the device are simple and clear, as recommended on page 5 of the "Suggested Guidelines for Designing Interactive Exhibits." Customers are guided through simple steps for powering the system, reading data on the LCD display, and interpreting weather information. As we are the ones who have designed the system, we should also be the ones to understand its troubleshooting.
 
 The weather monitoring system is built to enhance a customer’s experience by providing an interactive and informative product. By addressing user needs and adhering to best practices in exhibit design, the system offers a valuable tool for learning about weather science in an engaging and accessible manner.
 
 
 ---
-Step 6: Presentation
+Presentation
 ---
 
 [Presentation](https://docs.google.com/presentation/d/1E0xkP2-VengG1oABI-uzyQk-PzC6onmD59HA56W22TQ/edit?usp=sharing)
