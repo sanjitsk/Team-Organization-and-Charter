@@ -6,10 +6,10 @@ theme:
   name: material
   custom_dir: custom_theme/
   palette:
-    primary: blue
-    accent: indigo
+    primary: red
+    accent: white
   font:
-    text: Roboto
+    text: Georgia
   logo: static/logo.svg
   favicon: static/logo.png
 
@@ -59,7 +59,7 @@ extra_javascript:
 not_in_nav: |
   static
   
-copyright: "Copyright &copy; 2024 team-name-here"
+copyright: "Copyright &copy; 308 The Fresh Start"
 
 extra:
   generator: false
