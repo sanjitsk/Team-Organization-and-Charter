@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/template_report/Block%20Diagram%2C%20Process%20Diagram%2C%20and%20Message%20Structure/The%20Process%20Diagram/</loc>
+         <lastmod>2025-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/template_report/Datasheets/Humidity%20and%20Temperature%20Monitoring/</loc>
          <lastmod>2025-02-15</lastmod>
          <changefreq>daily</changefreq>
