@@ -15,9 +15,13 @@ Arizona State University EGR 314 Prof. Nichols
 ---
 
 **Team Memeber List**
-![Ethan Peterson](https://ejpete10.github.io/test_Datasheet.github.io/)           
+
+![Ethan Peterson](https://ejpete10.github.io/test_Datasheet.github.io/)    
+
 ![Kevin Shah](https://kshah79.github.io/kshah79/)
+
 ![Siddhant Kulkarni](
+
 ![Sanjit Kavitha](
 
 
