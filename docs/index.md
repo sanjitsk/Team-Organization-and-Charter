@@ -20,9 +20,10 @@ Arizona State University EGR 314 Prof. Nichols
 
 ![Kevin Shah](https://kshah79.github.io/kshah79/)
 
+![Sanjit Kavitha](http://sanjitsk.github.io)
+
 ![Siddhant Kulkarni](
 
-![Sanjit Kavitha](
 
 
 
