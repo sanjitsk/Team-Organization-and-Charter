@@ -22,7 +22,7 @@ Arizona State University EGR 314 Prof. Nichols
 
 [Sanjit Kavitha](http://sanjitsk.github.io)
 
-[Siddhant Kulkarni](
+[Siddhant Kulkarni](https://smkulka6.github.io/smkulka6/Individual%20Schematic/)
 
 
 
