@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/template_report/Datasheets/</loc>
+         <lastmod>2025-03-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/template_report/Ideation%20and%20Concept%20Generation/</loc>
          <lastmod>2025-03-01</lastmod>
          <changefreq>daily</changefreq>
@@ -47,11 +52,6 @@
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/Block%20Diagram%2C%20Process%20Diagram%2C%20and%20Message%20Structure/7.%20Microcontroller%20Block%20Diagram%20%28Sanjit%29/</loc>
-         <lastmod>2025-03-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Datasheets/Humidity%20and%20Temperature%20Monitoring/</loc>
          <lastmod>2025-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
