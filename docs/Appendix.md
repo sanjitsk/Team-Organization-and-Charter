@@ -1,8 +1,3 @@
-
-
-# **Appendix - Team Fresh Start**
-
-
 # Team Member Communication Modes
 
 | Team Member           | I = Text | II = Email | III = Discord  |
@@ -14,6 +9,8 @@
 
 **Preference:** Text
 
+---
+
 ## **Team Statements**
 
 ### **Charter Statement**
@@ -21,6 +18,8 @@ Our mission is to design and develop innovative, sustainable, and modular embedd
 
 ### **Mission Statement**
 Our objective is to develop an interactive, STEM-focused educational display within four months that captivates K-12 students by presenting a scientific or engineering concept in an intuitive and engaging way. The design will emphasize energy efficiency, modularity, and ease of use, ensuring both technical excellence and compliance with educational standards. Our goal is to create a sustainable and impactful solution that fosters curiosity in STEM while enhancing our team's engineering expertise.
+
+---
 
 ## **Team Goals**
 
@@ -45,6 +44,7 @@ Integrate energy-efficient components, sustainable materials, and forward-thinki
 ### **Meet Deadlines and Manage Resources Efficiently**
 Adhere to project timelines, stay within budget, and deliver a fully functional prototype or final product. Effective resource management and timely execution will demonstrate our ability to bring a well-planned concept to reality.
 
+---
 
 
 # Team Communication and Coordination
