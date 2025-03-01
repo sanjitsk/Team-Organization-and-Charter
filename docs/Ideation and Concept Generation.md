@@ -122,7 +122,10 @@ If deviations from our initial concept occurred, they were driven by insights ga
 
 ### **Project Video**
 
-[![Watch the video](https://img.youtube.com/vi/7UG-YCw4WZ8/maxresdefault.jpg)](https://youtu.be/7UG-YCw4WZ8)
+### **Project Video**
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/7UG-YCw4WZ8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ---
