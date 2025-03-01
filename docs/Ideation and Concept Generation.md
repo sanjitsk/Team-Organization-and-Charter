@@ -114,12 +114,5 @@ Our decision-making process involved evaluating the best ideas from our brainsto
 
 If deviations from our initial concept occurred, they were driven by insights gained from testing, research, and expert recommendations.
 
----
-
-## **Embedded Media - Presentation & Video**
-
-
-
-[![Watch the Video](https://img.youtube.com/vi/7UG-YCw4WZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=7UG-YCw4WZ8)
 
 ---
