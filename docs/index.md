@@ -2,11 +2,6 @@
 
 ---
 
-
-## **📌 Select which part of the Team organization you wish to explore from the top left of your screen.**
-
----
-
 ## 🏛 **Team Details**
 **🔢 Team Number:** 308  
 **📅 Preparation Date:** January 16, 2025  
