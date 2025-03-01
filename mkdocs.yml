@@ -58,4 +58,6 @@ extra_javascript:
 
  not_in_nav: |
   static
+  Node modules
+  Mathjax
 
