@@ -2,6 +2,9 @@
 title: Appendix
 ---
 
+# **Appendix - Team Fresh Start**
+
+
 # Team Member Communication Modes
 
 | Team Member           | I = Text | II = Email | III = Discord  |
@@ -12,6 +15,38 @@ title: Appendix
 | Siddhant              | ✅       | ✅         | ✅            |
 
 **Preference:** Text
+
+## **Team Statements**
+
+### **Charter Statement**
+Our mission is to design and develop innovative, sustainable, and modular embedded systems that tackle educational and STEM-related challenges. This semester, our focus is on creating an interactive, web-enabled physical device that demonstrates a scientific or engineering concept. The project will prioritize modularity, compliance with industry standards, and user engagement to inspire K-12 students in STEM. Our success will be measured by the device’s interactivity, educational impact, technical durability, and alignment with modular design principles.
+
+### **Mission Statement**
+Our objective is to develop an interactive, STEM-focused educational display within four months that captivates K-12 students by presenting a scientific or engineering concept in an intuitive and engaging way. The design will emphasize energy efficiency, modularity, and ease of use, ensuring both technical excellence and compliance with educational standards. Our goal is to create a sustainable and impactful solution that fosters curiosity in STEM while enhancing our team's engineering expertise.
+
+## **Team Goals**
+
+### **Deliver a Refined, Market-Ready Product**
+Develop an innovative, STEM-oriented interactive device that is not only functional but also aesthetically polished and ready for practical deployment. The aim is to produce a high-quality product that resonates with investors and end-users alike.
+
+### **Foster Professional Collaboration**
+Work as a professional, well-coordinated team by leveraging individual expertise, maintaining clear and effective communication, and meeting deadlines efficiently. This project will serve as a testament to our ability to collaborate on a complex engineering challenge and deliver tangible results.
+
+### **Ensure Scalability and Industry Standards Compliance**
+Design the product with future scalability in mind, adhering to industry standards and modular design principles. This approach will make the device easy to maintain, upgrade, and adapt for broader applications, increasing its potential for long-term impact and commercialization.
+
+### **Demonstrate Advanced Technical Expertise**
+Exhibit proficiency in robotics, embedded systems, and software engineering by developing a well-executed, cutting-edge solution to a real-world problem. This project will highlight our ability to implement innovative technology in a meaningful way.
+
+### **Maximize User Engagement and Impact**
+Create an intuitive and engaging product tailored to the needs of K-12 students and educators. The final design should inspire excitement for STEM while effectively addressing educational challenges, ensuring a positive user experience.
+
+### **Incorporate Sustainability and Innovation**
+Integrate energy-efficient components, sustainable materials, and forward-thinking features to enhance the product’s environmental responsibility and technological relevance. A commitment to sustainability and innovation will make our project appealing to investors and future users.
+
+### **Meet Deadlines and Manage Resources Efficiently**
+Adhere to project timelines, stay within budget, and deliver a fully functional prototype or final product. Effective resource management and timely execution will demonstrate our ability to bring a well-planned concept to reality.
+
 
 
 # Team Communication and Coordination
