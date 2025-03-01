@@ -118,10 +118,11 @@ If deviations from our initial concept occurred, they were driven by insights ga
 
 ## **Embedded Media - Presentation & Video**
 
-### **Final Project Presentation**
-<iframe src="https://docs.google.com/presentation/d/1E0xkP2-VengG1oABI-uzyQk-PzC6onmD59HA56W22TQ/embed?start=false&loop=false&delayms=3000" width="800" height="500" allowfullscreen></iframe>
-
 ### **Project Video**
-<iframe width="800" height="450" src="https://www.youtube.com/embed/7UG-YCw4WZ8" frameborder="0" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/7UG-YCw4WZ8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 
 ---
