@@ -118,4 +118,4 @@ Video Presentation
 ---
 [![Watch the video](https://img.youtube.com/vi/7UG-YCw4WZ8/maxresdefault.jpg)](https://youtu.be/7UG-YCw4WZ8)
 
-### [Embedded Video above, click for Youtube](https://youtu.be/7UG-YCw4WZ8)
+### [Watch this video on YouTube](https://youtu.be/7UG-YCw4WZ8)
