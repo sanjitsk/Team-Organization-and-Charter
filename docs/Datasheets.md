@@ -43,9 +43,29 @@
 
 ---
 
-## 📊 **Humidity and Temperature Sensor**
 
-- [**BOM**](https://docs.google.com/spreadsheets/d/1XDYP-75lMF53_pUxz10kB5wWfIxgC6Pn/edit?gid=1046845005#gid=1046845005)
+
+## 📊 **Humidity and Temperature Sensor**
+- [**BOM for 📊 Humidity and Temperature Sensor**](https://docs.google.com/spreadsheets/d/1XDYP-75lMF53_pUxz10kB5wWfIxgC6Pn/edit?gid=1046845005#gid=1046845005)
+
+---
+
+## 📊 **LCD Components**
+- [**BOM for Digikey**](https://docs.google.com/spreadsheets/d/1thl4na_Zp6JJeODk620oabDfIGcsMig7/edit?gid=2097922702#gid=2097922702)
+- [**BOM for Amazon**](https://docs.google.com/spreadsheets/d/1-0N1lIkbUpXZKQGJ7zUacZkNk9KAOLeZ/edit?gid=989998681#gid=989998681)
+
+---
+
+## 📊 **Microcontroller Components**
+- [**BOM for Microcontroller**](https://docs.google.com/spreadsheets/d/1TLPQAe9Ysa-mRq6CsnGLN0VT0UPX8lDi/edit?gid=1284711265#gid=1284711265)
+
+---
+
+## 📊 **Water Turbine Components**
+- [**BOM for Water Turbine**](https://docs.google.com/spreadsheets/d/15jXAXBXpmTbjrGjso7ABhld2auJOA4Gt0rnLwpOWp34/edit?gid=0#gid=0)
+
+---
+
 
 ### **Key Components:**
 
