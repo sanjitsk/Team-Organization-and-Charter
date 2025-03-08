@@ -21,7 +21,7 @@
   ![Electrical Characteristics](https://github.com/user-attachments/assets/8bfb4eda-ae0c-4384-92bf-e412e4078cba)
 
 - **ILI9341 - 2.8" Color TFT LCD**  
-  ![ILI9341 LCD](docs/LCD.png)  
+  ![ILI9341 LCD](LCD.png)  
   [**PDF Datasheet**](https://drive.google.com/file/d/13Vzs_nryKCrYzu6Ut4T06sFtYOACqKBY/view?usp=drive_link)
 
 ### 📶 **Wi-Fi and Bluetooth Module**
