@@ -1,10 +1,54 @@
-# Datasheets for Components
+# **Datasheets for Components**
 
-## Humidity and Temperature Sensor
+## 🔌 **Microcontroller and Modules**
+
+### ⚡ **Power Supply**
+- **WSU050 - 5VDC Power Supply**  
+  ![Overall Specs WSU](https://github.com/user-attachments/assets/dc10a508-ec1d-462f-a71c-8584cde97fef)
+
+### 🌡️ **Humidity Sensor**
+- **DHT11 - Humidity Sensor**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630566/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)  
+  ![Electrical Characteristics](https://github.com/user-attachments/assets/68ef25b9-58d5-4356-8450-5e7f9221cc1c)
+
+### 🖥️ **Display Modules**
+- **ERM1602-6 - 16x2 Display**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630571/ERM1602-6_Series_Datasheet.pdf)  
+  ![Electrical Overview](https://github.com/user-attachments/assets/eabb65a6-703c-40cc-bb7a-979b12244ff6)
+
+- **LCD1602 - 16x2 LCD Display**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630576/LCD1602.pdf)  
+  ![Electrical Characteristics](https://github.com/user-attachments/assets/8bfb4eda-ae0c-4384-92bf-e412e4078cba)
+
+- **ILI9341 - 2.8" Color TFT LCD**  
+  ![ILI9341 LCD](https://www.electronicwings.com/public/images/ili9341-1.jpg)  
+  [**PDF Datasheet**](https://drive.google.com/file/d/13Vzs_nryKCrYzu6Ut4T06sFtYOACqKBY/view?usp=drive_link)
+
+### 📶 **Wi-Fi and Bluetooth Module**
+- **ESP32 - Wi-Fi & Bluetooth Module**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630572/esp32-wroom-32_datasheet_en.pdf)  
+  **Pin Layouts**: Start at page 9 for detailed pin information.  
+  ![Recommended Operating Conditions](https://github.com/user-attachments/assets/268f1eca-8b5f-4e95-8691-5cc215755d1f)
+
+### 💻 **Microcontroller**
+- **PIC18F27Q10 - Microcontroller**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630579/PIC18F27-47Q10-Micorcontroller-Data-Sheet-DS40002043.pdf)  
+  ![Overview](https://github.com/user-attachments/assets/863233ec-4e85-42bb-b062-0bb46e0e7dd3)
+
+### 💧 **Water Turbine Generator**
+- **SEN0229 - Water Turbine Generator**  
+  [**PDF Datasheet**](https://github.com/user-attachments/files/18630581/SEN0229_Web.pdf)  
+  ![Image 1](https://github.com/user-attachments/assets/3c0c55e7-2fe0-4196-90d2-f14bdf774e51)  
+  ![Image 2](https://github.com/user-attachments/assets/a5fec78f-e4f0-40a6-afc2-2a082cf8aa5c)
+
+---
+
+## 📊 **Humidity and Temperature Sensor**
 
 - [**BOM**](https://docs.google.com/spreadsheets/d/1XDYP-75lMF53_pUxz10kB5wWfIxgC6Pn/edit?gid=1046845005#gid=1046845005)
 
-### Key Components:
+### **Key Components:**
+
 1. [**694108301002 Through hole plug in power source**](https://datasheet.ciiva.com/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0001192814/MIDC-S-A0001192814-1.pdf?src-supplier=IHS+Markit)
 2. [**C1206C104K5RACTU - 100nF Cap 3mm**](https://datasheet.ciiva.com/pdfs/VipMasterIC/IC/TDKC/TDKC-S-A0008953915/TDKC-S-A0008953915-1.pdf?src-supplier=IHS+Markit)
 3. [**GRM31CR61A106KA01L - 3mm Cap**](https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR61A106KA01-01.pdf)
@@ -25,49 +69,5 @@
 18. [**61301011821**](https://www.we-online.com/components/products/datasheet/6130xx11821.pdf)
 
 ---
-
-## Microcontroller and Modules
-
-### Power Supply
-- **WSU050 - 5VDC Power Supply**  
-  ![Overall Specs WSU](https://github.com/user-attachments/assets/dc10a508-ec1d-462f-a71c-8584cde97fef)
-
-### Humidity Sensor
-- **DHT11 - Humidity Sensor**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630566/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)  
-  ![Electrical Characteristics](https://github.com/user-attachments/assets/68ef25b9-58d5-4356-8450-5e7f9221cc1c)
-
-### Display Modules
-- **ERM1602-6 - 16x2 Display**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630571/ERM1602-6_Series_Datasheet.pdf)  
-  ![Electrical Overview](https://github.com/user-attachments/assets/eabb65a6-703c-40cc-bb7a-979b12244ff6)
-
-- **LCD1602 - 16x2 LCD Display**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630576/LCD1602.pdf)  
-  ![Electrical Characteristics](https://github.com/user-attachments/assets/8bfb4eda-ae0c-4384-92bf-e412e4078cba)
-
-- **ILI9341 - Color TFT LCD**  
-  [**PDF Datasheet**](https://drive.google.com/file/d/13Vzs_nryKCrYzu6Ut4T06sFtYOACqKBY/view?usp=drive_link)
-
-### Wi-Fi and Bluetooth Module
-- **ESP32 - Wi-Fi & Bluetooth Module**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630572/esp32-wroom-32_datasheet_en.pdf)  
-  **Pin Layouts**: Start at page 9 for detailed pin information.  
-  ![Recommended Operating Conditions](https://github.com/user-attachments/assets/268f1eca-8b5f-4e95-8691-5cc215755d1f)
-
-### Microcontroller
-- **PIC18F27Q10 - Microcontroller**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630579/PIC18F27-47Q10-Micorcontroller-Data-Sheet-DS40002043.pdf)  
-  ![Overview](https://github.com/user-attachments/assets/863233ec-4e85-42bb-b062-0bb46e0e7dd3)
-
-### Water Turbine Generator
-- **SEN0229 - Water Turbine Generator**  
-  [**PDF Datasheet**](https://github.com/user-attachments/files/18630581/SEN0229_Web.pdf)  
-  ![Image 1](https://github.com/user-attachments/assets/3c0c55e7-2fe0-4196-90d2-f14bdf774e51)  
-  ![Image 2](https://github.com/user-attachments/assets/a5fec78f-e4f0-40a6-afc2-2a082cf8aa5c)
-
 ---
 
-## Additional Components:
-- **ILI9341 - 2.8" TFT LCD Display**  
-  [**PDF Datasheet**](https://drive.google.com/file/d/13Vzs_nryKCrYzu6Ut4T06sFtYOACqKBY/view?usp=drive_link)
