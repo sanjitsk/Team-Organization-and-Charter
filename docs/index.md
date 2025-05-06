@@ -8,7 +8,7 @@
 **📆 Semester & Year:** Spring 2025  
 **🏫 Institution:** Arizona State University  
 **📖 Course:** EGR 314  
-**👨‍🏫 Instructor:** Prof. Nichols  
+**👨‍🏫 Instructor:** Prof. Kevin Nichols  
 
 ---
 
